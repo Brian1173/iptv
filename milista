@@ -57,14 +57,32 @@ http://45.179.164.59:8181/Peliculas/Back.to.the.future.2.1989.1080p-dual-lat.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Volver Al Futuro Saga",Volver Al Futuro 1
 http://45.179.164.59:8181/Peliculas/Back.to.the.future.3.1990.1080p-dual-lat.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Prueba",La era del Hielo 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/d/d5/IceAge.jpg/revision/latest?cb=20120715170151&path-prefix=es" group-title="La Era de Hielo - Saga", La Era de Hielo 1
 http://51.81.208.167/2020/La_Era_de_Hielo_1__2002.mkv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Prueba",Cars
-http://37.187.0.159/p/Cars%20(2006)%20MULTi%20VFF%202160p%2010bit%204KLight%20HDR%20BluRay%20x265%20AAC%207.1%20-%20XANDER.mkv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/d/d5/IceAge.jpg/revision/latest?cb=20120715170151&path-prefix=es" group-title="La Era de Hielo - Saga", La Era de Hielo 2
+http://51.81.208.167/2020/La_Era_de_Hielo_2_El_Deshielo__2006.mkv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Prueba",Cars 2
-http://37.187.0.159/p/Cars%202%20(2011)%20MULTi%20VFF%202160p%2010bit%204KLight%20HDR%20BluRay%20AC3%205.1%20x265-QTZ.mkv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/d/d5/IceAge.jpg/revision/latest?cb=20120715170151&path-prefix=es" group-title="La Era de Hielo - Saga", La Era de Hielo 3
+http://51.81.208.167/2020/La_Era_de_Hielo_3_El_Origen_de_los_Dinosaurios__2009.mkv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Prueba",Mega Server
-https://mega.nz/embed/gsUE0KCJ#lOeC95UsFD9PFQV2MX77C0-tTCUDsoNPeQT_pgx4kNQ
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/d/d5/IceAge.jpg/revision/latest?cb=20120715170151&path-prefix=es" group-title="La Era de Hielo - Saga", La Era de Hielo 4
+http://51.81.208.167/2020/La_Era_de_Hielo_4_La_Formacion_de_los_Continentes__2012.mkv
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/d/d5/IceAge.jpg/revision/latest?cb=20120715170151&path-prefix=es" group-title="La Era de Hielo - Saga", La Era de Hielo 5
+http://51.81.208.167/2020/La_Era_de_Hielo_5_Choque_de_Mundos__2016.mkv
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/b8/Hotel_Transylvania.jpg/revision/latest?cb=20120826035606&path-prefix=es" group-title="Peliculas", Hotel Transylvania 1
+http://51.81.208.167/2020/Hotel.Transylvania.mkv
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/b8/Hotel_Transylvania.jpg/revision/latest?cb=20120826035606&path-prefix=es" group-title="Peliculas", Hotel Transylvania 2
+http://51.81.208.167/2020/Hotel.Transylvania.2.mkv
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/b8/Hotel_Transylvania.jpg/revision/latest?cb=20120826035606&path-prefix=es" group-title="Peliculas", Hotel Transylvania 3
+http://51.81.208.167/cine/Hotel.transylvania.3.summer.vacation.2018.1080p-dual-lat-cinecalidad.to.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Mortal_Kombat-143448809-large.jpg" group-title="Peliculas", Mortal Kombat (2021)
+http://51.81.208.167/EXTRENO/Mortal.Kombat.Legends.Battle.of.the.Realms.2021.lati.mp4
+
+#EXTINF:-1 tvg-logo="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/MoviePosters/AllMADPhotos/16843164/16843164_v2_cmd1.jpg" group-title="Peliculas", Ford Vs Ferrari
+http://51.81.208.167/cine/Ford.v.ferrari.2019.1080p-dual-lat-cinecalidad.is.mp4
