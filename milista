@@ -36,5 +36,26 @@ http://45.179.164.59:8181/Peliculas/American%20Pie%203.mkv
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/268/800/png-clipart-american-pie-collection-american-pie-icon-thumbnail.png" group-title="American Pie Saga",American Pie 4
 http://45.179.164.59:8181/Peliculas/American%20Pie%204.mkv
 
+#EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/268/800/png-clipart-american-pie-collection-american-pie-icon-thumbnail.png" group-title="American Pie Saga",American Pie 5
+http://51.81.208.167/movies/American%20pie%205%20(2006).mp4
+
+#EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/268/800/png-clipart-american-pie-collection-american-pie-icon-thumbnail.png" group-title="American Pie Saga",American Pie 6
+http://51.81.208.167/movies/American%20pie%206%20(2007).mp4
+
+#EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/268/800/png-clipart-american-pie-collection-american-pie-icon-thumbnail.png" group-title="American Pie Saga",American Pie 7
+http://51.81.208.167/movies/American%20pie%207%20(2009).mp4
+
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/268/800/png-clipart-american-pie-collection-american-pie-icon-thumbnail.png" group-title="American Pie Saga",American Pie 9
 http://45.179.164.59:8181/Peliculas/American%20pie%209.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Volver Al Futuro Saga",Volver Al Futuro 1
+http://45.179.164.59:8181/Peliculas/Back.to.the.future.1.1985.1080p-dual-lat.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Volver Al Futuro Saga",Volver Al Futuro 1
+http://45.179.164.59:8181/Peliculas/Back.to.the.future.2.1989.1080p-dual-lat.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Volver Al Futuro Saga",Volver Al Futuro 1
+http://45.179.164.59:8181/Peliculas/Back.to.the.future.3.1990.1080p-dual-lat.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Prueba",Prueba
+https://dl3.3rver.org/cdn2/07/film/2006/cars/Cars.2006.BluRay.1080p.Ganool.mkv
