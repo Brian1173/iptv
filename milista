@@ -59,3 +59,9 @@ http://45.179.164.59:8181/Peliculas/Back.to.the.future.3.1990.1080p-dual-lat.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Prueba",La era del Hielo 1
 http://51.81.208.167/2020/La_Era_de_Hielo_1__2002.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Prueba",Cars
+http://37.187.0.159/p/Cars%20(2006)%20MULTi%20VFF%202160p%2010bit%204KLight%20HDR%20BluRay%20x265%20AAC%207.1%20-%20XANDER.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Prueba",Cars 2
+http://37.187.0.159/p/Cars%202%20(2011)%20MULTi%20VFF%202160p%2010bit%204KLight%20HDR%20BluRay%20AC3%205.1%20x265-QTZ.mkv
