@@ -1,27 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/44/47/55/444755fa82d64aebd58e3d39d18ed555--paul-walker.jpg" group-title="Fast Saga",Rapidos Y Furiosos 1
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Peliculas/The.fast.and.the.furious.2001.1080p-dual-lat-poster.jpg" group-title="Fast Saga",Rapidos Y Furiosos 1
 http://45.179.164.59:8181/Peliculas/The.fast.and.the.furious.2001.1080p-dual-lat.mp4
 
-#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Peliculas/2.fast.2.furious.2003.1080p-dual-lat-landscape.jpg" group-title="Fast Saga",Rapidos Y Furiosos 2
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Peliculas/2.fast.2.furious.2003.1080p-dual-lat-poster.jpg" group-title="Fast Saga",Rapidos Y Furiosos 2
 http://45.179.164.59:8181/Peliculas/2.fast.2.furious.2003.1080p-dual-lat.mp4
 
-#EXTINF:-1 tvg-logo="https://img7.tokyvideo.com/videos/703/70323/previews/previews_0012_custom_1621043004.2164.jpg" group-title="Fast Saga",Rapidos Y Furiosos 3 (6.5)
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Peliculas/The.fast.and.the.furious.tokyo.drift.2006.1080p-dual-lat-poster.jpg" group-title="Fast Saga",Rapidos Y Furiosos 3 (6.5)
 http://45.179.164.59:8181/Peliculas/The.fast.and.the.furious.tokyo.drift.2006.1080p-dual-lat.mp4
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/R_pidos_y_furiosos-818035556-large.jpg" group-title="Fast Saga",Rapidos Y Furiosos 4
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Peliculas/Fast.and.furious.2009.1080p-dual-lat-poster.jpg" group-title="Fast Saga",Rapidos Y Furiosos 4
 http://45.179.164.59:8181/Peliculas/Fast.and.furious.2009.1080p-dual-lat.mp4
 
-#EXTINF:-1 tvg-logo="https://img7.tokyvideo.com/videos/721/72138/previews/previews_0012_custom_1621632471.4386.jpg" group-title="Fast Saga",Rapidos Y Furiosos 5
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Peliculas/Fast.five.2011.1080p-dual-lat-poster.jpg" group-title="Fast Saga",Rapidos Y Furiosos 5
 http://45.179.164.59:8181/Peliculas/Fast.five.2011.1080p-dual-lat.mp4
 
-#EXTINF:-1 tvg-logo="https://img7.tokyvideo.com/videos/726/72659/previews/previews_0012_custom_1621877340.4889.jpg" group-title="Fast Saga",Rapidos Y Furiosos 6
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Peliculas/Fast.and.furious.6.2013.1080p.extended-dual-lat-poster.jpg" group-title="Fast Saga",Rapidos Y Furiosos 6
 http://45.179.164.59:8181/Peliculas/Fast.and.furious.6.2013.1080p.extended-dual-lat.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Peliculas/Furious.seven.2015.1080p.extended-dual-lat-poster.jpg" group-title="Fast Saga",Rapidos Y Furiosos 7
+http://45.179.164.59:8181/Peliculas/Furious.seven.2015.1080p.extended-dual-lat.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Peliculas/The.fate.of.the.furious.2017.1080p-dual-lat-poster.jpg" group-title="Fast Saga",Rapidos Y Furiosos 8
+http://45.179.164.59:8181/Peliculas/The.fate.of.the.furious.2017.1080p-dual-lat.mp4
 
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg" group-title="Fast Saga",Rapidos Y Furiosos 9
 http://45.179.164.59:8181/Peliculas/R%c3%a1pidos.Y.Furiosos.9.2021.HD.1080p-dual-lat.mkv
 
-#EXTINF:-1 tvg-logo="https://akamai.sscdn.co/uploadfile/letras/playlists/b/2/f/a/b2fa569a3a9747cf99ed32b9466cb14d.jpg" group-title="Fast Saga",Rapidos Y Furiosos Hobbs Y Shaw
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Peliculas/Fast.and.furious.presents.hobbs.and.shaw.2019.1080p-dual-lat-cinecalidad.is-poster.jpg" group-title="Fast Saga",Rapidos Y Furiosos Hobbs Y Shaw
 http://45.179.164.59:8181/Peliculas/Fast.and.furious.presents.hobbs.and.shaw.2019.1080p-dual-lat-cinecalidad.is.mp4
 
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/268/800/png-clipart-american-pie-collection-american-pie-icon-thumbnail.png" group-title="American Pie Saga",American Pie 1
