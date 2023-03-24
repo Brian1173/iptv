@@ -57,10 +57,10 @@ http://45.179.164.59:8181/Peliculas/American%20pie%209.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Volver Al Futuro Saga",Volver Al Futuro 1
 http://45.179.164.59:8181/Peliculas/Back.to.the.future.1.1985.1080p-dual-lat.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Volver Al Futuro Saga",Volver Al Futuro 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Volver Al Futuro Saga",Volver Al Futuro 2
 http://45.179.164.59:8181/Peliculas/Back.to.the.future.2.1989.1080p-dual-lat.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Volver Al Futuro Saga",Volver Al Futuro 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Volver Al Futuro Saga",Volver Al Futuro 3
 http://45.179.164.59:8181/Peliculas/Back.to.the.future.3.1990.1080p-dual-lat.mp4
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/d/d5/IceAge.jpg/revision/latest?cb=20120715170151&path-prefix=es" group-title="La Era de Hielo - Saga", La Era de Hielo 1
@@ -93,8 +93,27 @@ http://51.81.208.167/EXTRENO/Mortal.Kombat.Legends.Battle.of.the.Realms.2021.lat
 #EXTINF:-1 tvg-logo="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/MoviePosters/AllMADPhotos/16843164/16843164_v2_cmd1.jpg" group-title="Peliculas", Ford Vs Ferrari
 http://51.81.208.167/cine/Ford.v.ferrari.2019.1080p-dual-lat-cinecalidad.is.mp4
 
-#EXTINF:-1 tvg-logo="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/MoviePosters/AllMADPhotos/16843164/16843164_v2_cmd1.jpg" group-title="60FPS", 60FPS
-http://74.208.251.230/Contenidoplus/1%5d%20Pel%c3%adculas%20/Calidad/60%20Fps/2%20Fast%202%20Furious%20(2003)%201080p%20BDrip%20x264%2060%20fps%20%5bspa,%20eng%5d.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/82bSxju.jpeg" group-title="Peliculas",Un vecino gruñon
+http://51.81.208.167/pelis2023/A.Man.Called.Otto.2022.1080p.mkv
 
-#EXTINF:-1 tvg-logo="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/MoviePosters/AllMADPhotos/16843164/16843164_v2_cmd1.jpg" group-title="60FPS", 60FPS 2
-http://74.208.251.230/Contenidoplus/1%5d%20Pel%c3%adculas%20/Calidad/4K/UHD/2%20Fast%202%20Furious%20(2003)%204k.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LiUrYNK.jpeg" group-title="Peliculas",Detective Knight: Independencia
+http://51.81.208.167/pelis2023/Detective.Knight.Independence.2023.lati.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Puxrne.jpeg" group-title="Peliculas",Die Hart
+http://51.81.208.167/pelis2023/Die.Hart.the.Movie.2023.lati.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8A1DoTb.jpeg" group-title="Peliculas",Fiesta en Casa
+http://51.81.208.167/pelis2023/House.Party.2023.lati.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r4T53gA.jpeg" group-title="Peliculas",Jung E
+http://51.81.208.167/pelis2023/Jung.E.2023.lati.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8RReBCU.jpeg" group-title="Peliculas",Llaman a la Puerta
+http://51.81.208.167/pelis2023/Knock.at.the.Cabin.2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j4ANo9w.jpeg" group-title="Peliculas",Legion de Super Heroes
+http://51.81.208.167/pelis2023/Legion.of.Super.Heroes.2023.lati.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J0W7fbq.jpeg" group-title="Peliculas",Magic Mike: Last dance
+http://51.81.208.167/pelis2023/Magic.Mikes.Last.Dance.2023.mp4
+
