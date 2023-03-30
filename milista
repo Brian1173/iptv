@@ -117,8 +117,5 @@ http://51.81.208.167/pelis2023/Legion.of.Super.Heroes.2023.lati.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J0W7fbq.jpeg" group-title="Peliculas",Magic Mike: Last dance
 http://51.81.208.167/pelis2023/Magic.Mikes.Last.Dance.2023.mp4
 
-#EXTINF:0, 100.9 | MENDOZA | Estacion del sol
-https://audio.bustream.com:8064/stream?
-
-#EXTINF:-1, 100.9 | MENDOZA | Estacion del sol
-https://audio.bustream.com:8064/stream?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J0W7fbq.jpeg" group-title="Peliculas",Ghost whisper
+https://bridge.rabbitsun.xyz/Series/Ghost%20Whisperer/S01/Ghost%20Whisperer%20S01E01.480p.TagName.mkv
